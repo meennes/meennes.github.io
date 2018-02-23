@@ -3,17 +3,21 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Graduate Research Assistant
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2015-Current`
+__North Carolina State University__
+PhD Science Education
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2009-2011`
+__University of North Carolina Wilmington__
+MA Environmental Science
+
+`2002-2006`
+__University of North Carolina Wilmington__
+BS Marine Biology, High School Biology Teaching License
 
 ## Awards
 
